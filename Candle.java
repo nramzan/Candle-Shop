@@ -1,5 +1,5 @@
 /**
- * ITSC 1212 Candle class for Project 3
+ * Candle class
  */
 public class Candle {
  
