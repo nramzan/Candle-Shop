@@ -7,7 +7,7 @@ public class CandleShop {
         System.out.println("*******************************");
         System.out.println("Project 3");
         System.out.println("*******************************");
-        // Add code here
+        
         //declare new scanner and ask user for the name, type, price, and burn time of your first candle 
         Scanner scan = new Scanner(System.in);
         System.out.println("Enter the name of the first candle please: ");
